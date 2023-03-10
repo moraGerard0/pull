@@ -1,2 +1,2 @@
-# pull
+# Aprendiendo git-pull
 Aprendiendo pull
